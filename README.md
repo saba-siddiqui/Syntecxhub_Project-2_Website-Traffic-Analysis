@@ -1,2 +1,7 @@
-# Syntecxhub_Project-2_Website-Traffic-Analysis
-GA4 Website Traffic Analysis using Bigquery for Syntecxhub Internship
+Name:Saba Siddiqui
+Work: Analyzed GA4 website traffic data using Google Bigquery
+Finding:
+Top Event by Country - Nov 2020
+Top 10 Events
+Top 10 Products by Views
+Dataset: bigquery-public-data.ga4_obfuscated_sample_ecommerce
